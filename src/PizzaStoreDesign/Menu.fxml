@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="623.0" prefWidth="709.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="304.0" fitWidth="342.0" layoutY="337.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@pngtree-high-resolution-closeup-pepperoni-pizza-png-image_20497855.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="375.0" layoutY="22.0" prefHeight="94.0" prefWidth="175.0" text="1-Sizes">
+         <font>
+            <Font name="System Italic" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="454.0" layoutY="96.0" prefHeight="53.0" prefWidth="519.0" text="1-Small-----------------------28$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="454.0" layoutY="154.0" prefHeight="53.0" prefWidth="519.0" text="2-Medium-----------------------30$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="463.0" layoutY="212.0" prefHeight="53.0" prefWidth="534.0" text="3-Large-----------------------32$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="97.0" layoutY="67.0" prefHeight="97.0" prefWidth="259.0" text="the art of pure pizza" textOverrun="CLIP">
+         <font>
+            <Font name="Bookman Old Style Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="95.0" layoutY="26.0" prefHeight="97.0" prefWidth="148.0" text="Vero Gusto" textOverrun="CLIP">
+         <font>
+            <Font name="Bookman Old Style Italic" size="24.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="187.0" fitWidth="259.0" layoutX="-76.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@ChatGPT%20Image%20Mar%203,%202026,%2004_22_03%20PM.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="367.0" layoutY="265.0" prefHeight="94.0" prefWidth="251.0" text="2-Crust Type">
+         <font>
+            <Font name="System Italic" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="471.0" layoutY="347.0" prefHeight="53.0" prefWidth="519.0" text="1-Thick-----------------------+0$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="471.0" layoutY="400.0" prefHeight="53.0" prefWidth="519.0" text="2-Thin-----------------------+0$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="356.0" layoutY="427.0" prefHeight="94.0" prefWidth="251.0" text="3-Toppings">
+         <font>
+            <Font name="System Italic" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="714.0" layoutY="580.0" prefHeight="53.0" prefWidth="519.0" text="6-Mushroom-----------------------+3$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="738.0" layoutY="536.0" prefHeight="53.0" prefWidth="519.0" text="5-Olives-----------------------+3$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="755.0" layoutY="483.0" prefHeight="53.0" prefWidth="519.0" text="4-GreenPeppers-----------------------+3$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="291.0" layoutY="580.0" prefHeight="53.0" prefWidth="519.0" text="3-Onion-----------------------+3$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="304.0" layoutY="527.0" prefHeight="53.0" prefWidth="519.0" text="2-Tomato-----------------------+3$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="315.0" layoutY="483.0" prefHeight="53.0" prefWidth="519.0" text="1-Cheese-----------------------+3$">
+         <font>
+            <Font name="Vladimir Script" size="36.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
