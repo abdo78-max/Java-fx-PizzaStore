@@ -123,7 +123,7 @@
          </font></Label>
       <ImageView fitHeight="325.0" fitWidth="315.0" layoutX="-6.0" layoutY="408.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@Top%20view%20on%20delicious%20pizza%20_%20Free%20PSD_files/pizza-design-image_1295705-24804.jpg" />
+            <Image url="@pngtree-high-resolution-closeup-pepperoni-pizza-png-image_20497855.png" />
          </image>
       </ImageView>
    </children>

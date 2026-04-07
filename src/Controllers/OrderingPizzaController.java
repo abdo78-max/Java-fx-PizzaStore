@@ -216,7 +216,7 @@ public class OrderingPizzaController implements Initializable {
             ArrayList<String> selected = new ArrayList<>(toppingList.getSelectionModel().getSelectedItems());
             if (selected.isEmpty()) {
                 toppingsInBill.setText("Nothing");
-                totalPrice.setText("0.00");
+                totalPrice.setText(String.valueOf(basePrice));
                 toppingsPrice.setText("0.00");
             } else {
                 String result = String.join(", ", selected);
@@ -228,9 +228,9 @@ public class OrderingPizzaController implements Initializable {
                     totalPrice.setText(String.valueOf(basePrice + sum));
                     toppingsPrice.setText(String.valueOf(sum));
                 }
-                updatePrice();
 
             }
+            updatePrice();
 
         }
         );
