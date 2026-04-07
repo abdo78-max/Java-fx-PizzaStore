@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/PizzaStoreSystem/src/pizzastoresystem/PizzaStoreSystem.java</file>
+            <file>file:/G:/PizzaStoreSystem/src/Controllers/OrderNowPageController.java</file>
+            <file>file:/G:/PizzaStoreSystem/src/PizzaStoreDesign/OrderNowPage.fxml</file>
+            <file>file:/G:/PizzaStoreSystem/src/PizzaStoreDesign/OrderingPizza.fxml</file>
+            <file>file:/G:/PizzaStoreSystem/src/PizzaStoreDesign/Menu.fxml</file>
+            <file>file:/G:/PizzaStoreSystem/src/Controllers/OrderingPizzaController.java</file>
+            <file>file:/G:/PizzaStoreSystem/src/PizzaStoreDesign/Bill.fxml</file>
+            <file>file:/G:/PizzaStoreSystem/src/enums/Sizes.java</file>
+            <file>file:/G:/PizzaStoreSystem/src/enums/CrustType.java</file>
+            <file>file:/G:/PizzaStoreSystem/src/enums/WhereToEat.java</file>
+            <file>file:/G:/PizzaStoreSystem/src/PizzaStoreDesign/ABoutUs.fxml</file>
+            <file>file:/G:/PizzaStoreSystem/src/PizzaStoreDesign/pizzamenu.txt</file>
+            <file>file:/G:/PizzaStoreSystem/src/PizzaStoreDesign/Toppings.txt</file>
+            <file>file:/G:/PizzaStoreSystem/src/Controllers/BillController.java</file>
+            <file>file:/G:/PizzaStoreSystem/src/PizzaStoreDesign/topping.txt</file>
+        </group>
+    </open-files>
+</project-private>

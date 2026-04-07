@@ -223,7 +223,6 @@ public class OrderingPizzaController implements Initializable {
                 toppingsInBill.setText(result);
                 toppingsInBill.setWrapText(true);
                 double sum = 0;
-                String selectedWhereToEat = whereToEat.getValue();
                 for (String topping : selected) {
                     sum += toppingPrices.get(topping);
                     totalPrice.setText(String.valueOf(basePrice + sum));

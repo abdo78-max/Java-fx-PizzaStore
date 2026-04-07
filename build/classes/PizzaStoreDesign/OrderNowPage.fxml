@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" fx:id="OrderNow" prefHeight="751.0" prefWidth="1018.0" style="-fx-background-color: red;" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.OrderNowPageController">
+   <children>
+      <ImageView fitHeight="282.0" fitWidth="410.0" layoutX="644.0" layoutY="617.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@5cb98b66-03f6-4277-9c48-63d0c6dd952e.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="220.0" fitWidth="297.0" layoutX="-89.0" layoutY="707.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@7afe04d9-7c4e-44c8-b40c-22f07fbf12d3.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="236.0" fitWidth="231.0" layoutX="-72.0" layoutY="543.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@LotOfTomato.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="192.0" layoutY="71.0" prefHeight="97.0" prefWidth="259.0" text="the art of pure pizza" textOverrun="CLIP">
+         <font>
+            <Font name="Bookman Old Style Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="192.0" layoutY="34.0" prefHeight="97.0" prefWidth="148.0" text="Vero Gusto" textOverrun="CLIP">
+         <font>
+            <Font name="Bookman Old Style Italic" size="24.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="187.0" fitWidth="259.0" layoutX="20.0" layoutY="20.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@ChatGPT%20Image%20Mar%203,%202026,%2004_22_03%20PM.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="428.0" layoutY="289.0" prefHeight="127.0" prefWidth="199.0" text="Hungry?">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Button layoutX="444.0" layoutY="422.0" mnemonicParsing="false" onAction="#OrderNowAction" prefHeight="40.0" prefWidth="106.0" styleClass="control" stylesheets="@Design.css" text="Order Now" />
+   </children>
+</AnchorPane>

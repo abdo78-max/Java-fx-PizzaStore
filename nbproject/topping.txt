@@ -1,0 +1,6 @@
+Cheese=3.00
+Tomato=3.00
+Onion=3.00
+Green peppers=3.00
+Olives=3.00
+Mushroom=3.00
